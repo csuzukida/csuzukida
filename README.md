@@ -2,5 +2,6 @@
 
 ### 💻 I'm a full stack software engineer based in the Greater San Francisco Bay Area.
 
-- 🌱 I'm currently working on a visualizer for SQL and NoSQL schema ERDs
-- 🔧 I primarly work with Typescript & vanilla JS, React/Redux, Node/Express, SQL and MongoDB
+- 🌱  I'm currently working on a visualizer for SQL and NoSQL schema ERDs
+- 🔧  I primarly work with Typescript & vanilla JS, React/Redux, Node/Express, SQL and MongoDB
+- 📧  Feel free to reach out to me at chris@suzukida.dev
