@@ -1,4 +1,4 @@
-## Hi 👋🏻 my name is Chris!
+## Hello folks! 👋🏻
 
 ### 💻 I'm a full stack software engineer based in the Greater San Francisco Bay Area.
 
